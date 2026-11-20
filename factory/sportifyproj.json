@@ -1,0 +1,16 @@
+{
+	"name": "sportifyproj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6943d9f9-17cd-48cd-bd8a-39748cc9e452",
+		"tenantId": "babee408-c83d-4ddc-9206-1879499252cb"
+	}
+}
