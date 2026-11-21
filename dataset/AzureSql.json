@@ -1,0 +1,12 @@
+{
+	"name": "AzureSql",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "sportify_LS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
